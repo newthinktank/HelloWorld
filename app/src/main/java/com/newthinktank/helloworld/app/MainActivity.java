@@ -8,7 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-    String randomString = "Hello Again";
+    String randomString = "Hello Again Again";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
